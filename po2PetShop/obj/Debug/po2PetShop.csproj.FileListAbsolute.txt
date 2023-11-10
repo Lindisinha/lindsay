@@ -1,0 +1,11 @@
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\po2PetShop.exe.config
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\po2PetShop.exe
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\bin\Debug\po2PetShop.pdb
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\obj\Debug\po2PetShop.csproj.AssemblyReference.cache
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\obj\Debug\po2PetShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\obj\Debug\po2PetShop.Form1.resources
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\obj\Debug\po2PetShop.Properties.Resources.resources
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\obj\Debug\po2PetShop.csproj.GenerateResource.cache
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\obj\Debug\po2PetShop.csproj.CoreCompileInputs.cache
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\obj\Debug\po2PetShop.exe
+C:\Users\2022102020082\source\repos\po2PetShop\po2PetShop\obj\Debug\po2PetShop.pdb
